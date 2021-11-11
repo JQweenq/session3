@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Session3</string>
+    <string name="criminal_cases">Criminal Cases</string>
+    <string name="add_criminal_cases">Add Criminal Cases</string>
+    <string name="number">Number:</string>
+    <string name="category">Category:</string>
+    <string name="date">Date:</string>
+    <string name="client">Client:</string>
+    <string name="detective">Detective:</string>
+    <string name="description">Description:</string>
+
+</resources>
